@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Ethiopia;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h4>Hello, I am Habitamu, a full stack Developer from Ethiopia. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
@@ -15,8 +15,8 @@
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/habasm)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
-<p align="center"><a href="./ressources/code.gif">
-  <img src="./ressources/code.gif"  height="450" width="700"/>
+<p align="center"><a href="./code.gif">
+  <img src="./code.gif"  height="450" width="700"/>
 </a></p>
 
 - 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.uog.edu.et) University, **Top 5 in Ethiopia**.
@@ -39,19 +39,19 @@
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Habasm" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/habasm?hr_r=1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="habasm" height="30" width="40" /></a>
     <a href="https://www.instagram.com/habasm/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="habasm" height="30" width="40" /></a>
   <a href="https://www.facebook.com/habasm" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="habasm" height="30" width="40" /></a>
  <a href="https://twitter.com/habasm" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="habasm" height="30" width="40" /></a>
 </p>
 
