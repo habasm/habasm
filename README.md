@@ -19,7 +19,7 @@
   <img src="./code.gif"  height="450" width="700"/>
 </a></p>
 
-- 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.uog.edu.et) University, **Top 5 in Ethiopia**.
+- 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [University of Gondar](https://www.uog.edu.et) University, **Top 5 in Ethiopia**.
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
 - 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
 - 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
@@ -84,7 +84,7 @@
 
 ## GitHub stats 🚀:
 
-![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
+![Habitamu's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=habasm&theme=material-palenight&hide_border=false&area=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
