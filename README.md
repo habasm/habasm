@@ -1,25 +1,110 @@
-<h1 align="center">Hi 👋, I'm Habitamu Asimare</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia.</h3>
+<h1 align="center">  
+  <img src="./ressources/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="./ressources/Hi.gif" width="40px" />, I'm Habitamu Asimare 👨‍💻</h1>
+<h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanjbaig&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanjbaig" /> </p>
-
-<img align="right" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-- 🌱 I’m currently learning **React**
-- 🌱 For the backend I learn **Ruby and Rail**
-
-- 🌱 Currently part of @Microverse 
-
-- 📫 How to reach me **habasm365@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassaan baig" height="30" width="40" /></a>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h4>Hello, I am Habitamu, a full stack Developer from Ethiopia. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habasm&show_icons=true&locale=en&layout=compact" alt="habasm" /></p>
+[![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/habasm)
+![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habasm&show_icons=true&locale=en" alt="habasm" /></p>
+<p align="center"><a href="./ressources/code.gif">
+  <img src="./ressources/code.gif"  height="450" width="700"/>
+</a></p>
+
+- 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.uog.edu.et) University, **Top 5 in Ethiopia**.
+- 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
+- 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
+- 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
+- 🤔 I’m looking for help with **finding a great job**.
+- 💬 Ask me about **Anything you want**.
+- 📫 How to reach me: <a href="mailto:habasm@gmail.com">Send an Email</a>.
+- 💻 All **my projects** are available [here](https://github.com/habasm?tab=repositories).
+- 😄 Pronouns: **He**/ **him** / **his**.
+- ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
+
+<h4 align="center">Visitor count</h4>   
+<p align="center"><img src="https://profile-counter.glitch.me/habasm/count.svg" /></p>
+<p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
+
+<h3 align="center">Connect with me:
+<img src='./handshake.gif' width="100px">
+</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Habasm" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/habasm?hr_r=1" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="habasm" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/habasm/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="habasm" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/habasm" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="habasm" height="30" width="40" /></a>
+ <a href="https://twitter.com/habasm" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/habasm/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="habasm" height="30" width="40" /></a>
+</p>
+
+---
+
+### Skills 🛠️
+
+<p align="left">
+<a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#" target="blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"></a>
+</p>
+
+
+
+## Certificates & Licenses 🥇
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e947182f-0196-43b4-9193-989256dde921#gs.01yfs2" target="blank"><img src="./html-css-badge.png" width="80"></a> 
+</p>
+
+---
+
+## GitHub stats 🚀:
+
+![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p>
+<a href="https://github.com/khitermedachraf/">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+</a>
+</p>
+
+<p><a href="https://github.com/khitermedachraf/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=8" />
+</a></p>
+
+### This week I spent my time on <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+<a href="https://wakatime.com/@khitermedachraf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight" />
+</a>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
+
