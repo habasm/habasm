@@ -12,7 +12,7 @@
 
 <h4>Hello, I am Habitamu, a full stack Developer from Ethiopia. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
-[![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/habasm)
+[![Github](https://img.shields.io/github/followers/habasm?label=Follow&style=social)](https://github.com/habasm)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
 <p align="center"><a href="./code.gif">
