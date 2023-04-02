@@ -1,7 +1,7 @@
 <h1 align="center">  
   <img src="./ressources/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="./ressources/Hi.gif" width="40px" />, I'm Habitamu Asimare 👨‍💻</h1>
+  <img src="./ressources/Hi.gif" width="40px" />, I'm HABASM 👨‍💻</h1>
 <h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.
 </h3>
 
