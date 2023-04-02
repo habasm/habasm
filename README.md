@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Ethiopia;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<h4>Hello, I am Habitamu, a full stack Developer from Ethiopia. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
+<h4>Hello, I am Habitamu, a full stack Developer from Everywhere. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
 [![Github](https://img.shields.io/github/followers/habasm?label=Follow&style=social)](https://github.com/habasm)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
