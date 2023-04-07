@@ -77,7 +77,9 @@
 ## Certificates & Licenses 🥇
 
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e947182f-0196-43b4-9193-989256dde921#gs.01yfs2" target="blank"><img src="./html-css-badge.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8fc0b053-9dc7-4027-9cbe-cbe5aea3ea7d" target="blank"><img src="./html-css-badge.png" width="80"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/be3b7bb7-5e64-4582-939a-d580d9d322a0" target="blank"><img src="./html-css-badge.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/59ec9e99-db41-48a7-a8a0-768634e5a9f6" target="blank"><img src="./html-css-badge.png" width="80"></a>
 </p>
 
 ---
