@@ -2,7 +2,7 @@
   <img src="./ressources/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="./ressources/Hi.gif" width="40px" />, I'm HABASM 👨‍💻</h1>
-<h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.
+<h3 align="center">Full-Stack Developer and Data Science Engineer
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Everywhere;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<h4>Hello, I am HABASM, a full stack Developer from Everywhere. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
+<h4>Hello, I am HABASM, a Full Stack Developer and Python Data Science Engineer. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
 [![Github](https://img.shields.io/github/followers/habasm?label=Follow&style=social)](https://github.com/habasm)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
@@ -19,13 +19,11 @@
   <img src="./code.gif"  height="450" width="700"/>
 </a></p>
 
-- 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [University of Gondar](https://www.uog.edu.et) University, **Top 5 in Ethiopia**.
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
-- 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
 - 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
 - 🤔 I’m looking for help with **finding a great job**.
 - 💬 Ask me about **Anything you want**.
-- 📫 How to reach me: <a href="mailto:habasm@gmail.com">Send an Email</a>.
+- 📫 How to reach me: <a href="mailto:2gethas@gmail.com">Send an Email</a>.
 - 💻 All **my projects** are available [here](https://github.com/habasm?tab=repositories).
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
