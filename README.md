@@ -76,7 +76,7 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/habasm2/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/habasm"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.instagram.com/habasm/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.facebook.com/habasm"><img src="https://skillicons.dev/icons?i=facebook" /></a>
@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/habasm/count.svg" />
+  <img src="[https://profile-counter.glitch.me/habasm/count.svg](https://github.com/habasm/habasm/blob/main/habasm.png)" />
 </p>
 
 <p align="center">
