@@ -14,7 +14,7 @@
 
 - 🔭 Currently building in **Web Development**, **AI/ML**, and **Cybersecurity**  
 - 👯 Open to collaborate on **Open Source** & **Real-World Projects**  
-- 💡 I thrive on **problem-solving, futuristic tech & innovation**  
+- 💡 Passionate about **problem-solving, futuristic tech & innovation**  
 - 📫 Reach me: [Email](mailto:2gethas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/habitamu-asimare-aa824b169/)  
 - ⚡ Fun fact: I only sleep peacefully after **all missions are completed** 🕶️  
 
@@ -24,16 +24,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,redux,nextjs,nodejs,python,django,go,mysql,sqlite,postgres,git,linux,postman,vscode,webpack" />
-</p>
-
----
-
-### 🏆 Certifications  
-
-<p align="center">
-  <a href="https://www.credential.net/8fc0b053-9dc7-4027-9cbe-cbe5aea3ea7d"><img src="./html-css-badge.png" width="90" alt="HTML & CSS"></a>
-  <a href="https://www.credential.net/be3b7bb7-5e64-4582-939a-d580d9d322a0"><img src="./javascript-badge.png" width="90" alt="JavaScript"></a>
-  <a href="https://www.credential.net/59ec9e99-db41-48a7-a8a0-768634e5a9f6"><img src="./react-redux-badge.png" width="90" alt="React & Redux"></a>
 </p>
 
 ---
@@ -51,32 +41,10 @@
 
 ---
 
-### 📌 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/habasm/nextjs-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=nextjs-portfolio&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
-  </a>
-  <a href="https://github.com/habasm/go-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=go-chat-app&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/habasm/django-ai-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=django-ai-platform&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
-  </a>
-  <a href="https://github.com/habasm/cybersec-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=cybersec-tools&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/habasm2/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/habasm"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.instagram.com/habasm/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.facebook.com/habasm"><img src="https://skillicons.dev/icons?i=facebook" /></a>
@@ -86,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="[https://profile-counter.glitch.me/habasm/count.svg](https://github.com/habasm/habasm/blob/main/habasm.png)" />
+  <img src="./habasm.png" width="400" alt="HABASM Banner"/>
 </p>
 
 <p align="center">
