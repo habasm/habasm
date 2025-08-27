@@ -1,23 +1,21 @@
 <h1 align="center">
-  <img src="./ressources/Earth.gif" width="28px"> 
-  <span style="color:#00f0ff;">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <b>HABASM</b></span> 👨‍💻 
-  <img src="./ressources/Hi.gif" width="40px" />
+  <span style="color:#00f0ff;">Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm <b>HABASM</b></span> 👨‍💻
 </h1>
 
 <h3 align="center" style="color:#ff0080;">⚡ Full-Stack Developer | Data Science Engineer | Open Source Explorer ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00f0ff&center=true&vCenter=true&width=500&height=30&lines=Full+Stack+Developer+⚡;Data+Science+Engineer+🤖;Open+Source+Contributor+🌍;Exploring+AI+%26+Cybersecurity+🔐;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00f0ff&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer+⚡;Data+Science+Engineer+🤖;Open+Source+Contributor+🌍;Exploring+AI+%26+Cybersecurity+🔐;Always+Learning+🚀">
 </p>
 
 ---
 
 ### 🌌 About Me  
 
-- 🔭 Currently building in **Web Development, AI/ML, & Cybersecurity**  
-- 👯 Open to collaborate on **Open Source & Real-World Projects**  
+- 🔭 Currently building in **Web Development**, **AI/ML**, and **Cybersecurity**  
+- 👯 Open to collaborate on **Open Source** & **Real-World Projects**  
 - 💡 I thrive on **problem-solving, futuristic tech & innovation**  
-- 📫 Reach me: [Email](mailto:2gethas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/habitamu-asimare-aa824b169/)  
+- 📫 Reach me: [Email](mailto:2gethas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/habitamu-asimare-aa824b169/)  
 - ⚡ Fun fact: I only sleep peacefully after **all missions are completed** 🕶️  
 
 ---
@@ -25,7 +23,7 @@
 ### 🚀 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,redux,nodejs,python,mysql,sqlite,git,linux,postman,vscode,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,redux,nextjs,nodejs,python,django,go,mysql,sqlite,postgres,git,linux,postman,vscode,webpack" />
 </p>
 
 ---
@@ -33,9 +31,9 @@
 ### 🏆 Certifications  
 
 <p align="center">
-  <a href="https://www.credential.net/8fc0b053-9dc7-4027-9cbe-cbe5aea3ea7d"><img src="./html-css-badge.png" width="90"></a>
-  <a href="https://www.credential.net/be3b7bb7-5e64-4582-939a-d580d9d322a0"><img src="./javascript-badge.png" width="90"></a>
-  <a href="https://www.credential.net/59ec9e99-db41-48a7-a8a0-768634e5a9f6"><img src="./react-redux-badge.png" width="90"></a>
+  <a href="https://www.credential.net/8fc0b053-9dc7-4027-9cbe-cbe5aea3ea7d"><img src="./html-css-badge.png" width="90" alt="HTML & CSS"></a>
+  <a href="https://www.credential.net/be3b7bb7-5e64-4582-939a-d580d9d322a0"><img src="./javascript-badge.png" width="90" alt="JavaScript"></a>
+  <a href="https://www.credential.net/59ec9e99-db41-48a7-a8a0-768634e5a9f6"><img src="./react-redux-badge.png" width="90" alt="React & Redux"></a>
 </p>
 
 ---
@@ -48,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=habasm&theme=tokyonight&hide_border=true&ring=ff0080&fire=00f0ff&currStreakLabel=00f0ff" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=habasm&theme=tokyonight&hide_border=true&ring=ff0080&fire=00f0ff&currStreakLabel=00f0ff"/>
 </p>
 
 ---
