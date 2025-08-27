@@ -51,6 +51,28 @@
 
 ---
 
+### 📌 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/habasm/nextjs-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=nextjs-portfolio&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
+  </a>
+  <a href="https://github.com/habasm/go-chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=go-chat-app&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/habasm/django-ai-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=django-ai-platform&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
+  </a>
+  <a href="https://github.com/habasm/cybersec-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habasm&repo=cybersec-tools&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=ff0080" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect With Me  
 
 <p align="center">
